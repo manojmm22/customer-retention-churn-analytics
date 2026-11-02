@@ -1,0 +1,1 @@
+SELECT * FROM customer_retention.online_retail_customer_segments;
