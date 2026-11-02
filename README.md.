@@ -1,5 +1,5 @@
 # Customer Retention & Churn Analytics
-![Customer Retention Dashboard](dashboard.png)
+![Customer Retention Dashboard](./dashboard.png)
 
 ## Project Overview
 An end-to-end data analytics project that analyzes customer purchasing behaviour and segments customers using RFM (Recency, Frequency, Monetary) analysis.
