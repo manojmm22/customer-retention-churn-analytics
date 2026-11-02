@@ -1,0 +1,43 @@
+# Customer Retention & Churn Analytics
+
+## Project Overview
+An end-to-end data analytics project that analyzes customer purchasing behaviour and segments customers using RFM (Recency, Frequency, Monetary) analysis.
+
+## Objectives
+- Understand customer purchasing behaviour.
+- Identify high-value and loyal customers.
+- Identify inactive and potential churn-risk customers.
+- Provide actionable business recommendations.
+
+## Tools & Technologies
+- Python
+- Pandas and NumPy
+- MySQL
+- Power BI
+- Excel
+
+## Project Workflow
+1. Cleaned and prepared the Online Retail II dataset.
+2. Performed RFM analysis using Python.
+3. Assigned RFM scores and customer segments.
+4. Imported customer-level data into MySQL.
+5. Performed SQL-based customer analysis.
+6. Created an interactive Power BI dashboard.
+7. Developed business insights and recommendations.
+
+## Customer Segments
+- Champions
+- Loyal Customers
+- Potential Loyalists
+- Recent Customers
+- At Risk
+- Cannot Lose Them
+- Hibernating
+- Others
+
+## Important Note
+This project uses RFM segmentation and recency-based rules to identify potential churn risk. It does not use a machine learning model to predict churn.
+
+## Author
+Manoj M  
+MCA Graduate | Aspiring Data Analyst
